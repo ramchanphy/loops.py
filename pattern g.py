@@ -31,11 +31,11 @@
 
 # num=int(input("enter the num"))
 
-quantity=int(input("enter the quantity:"))
-price=int(input("enter the price:"))
-total_cost=price*quantity
-if total_cost>1000:
-    discount=total_cost/100*10
-    print("total cost=",total_cost-discount)
-else:
-    print("no discount",total_cost)
+# quantity=int(input("enter the quantity:"))
+# price=int(input("enter the price:"))
+# total_cost=price*quantity
+# if total_cost>1000:
+#     discount=total_cost/100*10
+#     print("total cost=",total_cost-discount)
+# else:
+#     print("no discount",total_cost)

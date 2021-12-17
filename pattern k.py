@@ -1,23 +1,25 @@
-# n=int(input("enter the number"))
-# i=1
-# while i<=n:
-#     j=6
-#     while j<=i:
-#         print()
+
 n=int(input("enter the number"))
 i=1
 while i<=n:
-    j=1
-    while j<=i:
-        print(j,end=" ")
-        j+=1
-    # a=1
-    # while a<=5:
-    #     print(" ",end='')
-    #     a+=1
+    a=i
+    while a>=1:
+        print(a,end=" ")
+        a-=1
+    print()
     print()
     i+=1
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 # num1=int(input("enter the number"))
 # num2=int(input("enter the number"))
 # num3=int(input("enter the number"))
