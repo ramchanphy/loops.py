@@ -1,5 +1,20 @@
-i=556
-while i<=656:
-    if i%7==0:
-        print(i)
-    i+=1
+# i=556
+# while i<=656:
+#     if i%7==0:
+#         print(i)
+#     i+=1
+#meraki question 5
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    

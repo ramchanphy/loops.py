@@ -3,11 +3,12 @@ while i<=5:
     j=1
     while j<=i:
         if i==2:
-            print("*",end=" ")
+            print(chr(66),end=" ")
         elif i==4:
-            print("*",end=" ")
+            print(chr(68),end=" ")
         else:
-            print(j,end=" ")
+            print(i,end=" ")
         j+=1
     i+=1
     print()
+    

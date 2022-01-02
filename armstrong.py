@@ -10,3 +10,10 @@ if sum==n:
     print("it is an armstrong number")
 else:
     print("not an armstrong number")
+
+
+
+
+
+    
+    
